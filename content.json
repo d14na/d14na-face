@@ -2,9 +2,7 @@
  "address": "1D14naQY4s65YR6xrJDBHk9ufj2eLbK49C",
  "address_index": 14886911,
  "background-color": "#FFF",
- "clone_root": "template-new",
- "cloned_from": "1HeLLo4uzjaLetFx6NH3PMwFP3qbRbTf3D",
- "description": "ZeroGold",
+ "description": "Our continuing mission to create, share and support the very BEST of open-sourced decentralization with every corner of our TrustLess Republic\u2122.",
  "files": {
   "LICENSE": {
    "sha512": "772987556efbdb6ceba6af1b23597c76f2db3bf5d1a0b74f158046134954db0e",
@@ -14,17 +12,21 @@
    "sha512": "b42d6eafce73a298fa5f6b7f1508e3295c4b057669689d20612e8e98a9f9b95f",
    "size": 730
   },
+  "css/style.default.css": {
+   "sha512": "853d542772b1cfd34e9fee535f6b6cabcf7c164b06bd8112bf907cf92c85661f",
+   "size": 23421
+  },
   "images/icon.png": {
    "sha512": "3e0e84d2f3ddf37c1fdc6dac9d9d7fb1181aecea1aadbb5901799ab59c4eb929",
    "size": 89453
   },
-  "index.html": {
-   "sha512": "14edd1607e46f10c152a4eccf569e0f12ef93ad7a2c06ad752f1dd955a43f3c2",
-   "size": 2231
+  "images/pexels-photo-40120.jpg": {
+   "sha512": "cce9d6e0e23617b00095f02299d2ed6b00e987bc233de120459aba3f269640c2",
+   "size": 67737
   },
-  "js/ZeroFrame.js": {
-   "sha512": "42125c7aa72496455e044e3fd940e0f05db86824c781381edb7a70f71a5f0882",
-   "size": 3370
+  "index.html": {
+   "sha512": "ec671dd5dadf839fbcb46511f89adf0c669d8af3127771e0f341b7b6ecba2058",
+   "size": 4916
   },
   "privacy.html": {
    "sha512": "789e74402ce47f6a7423327120ff1afdd03f74011b14d4e0e070957f78b07cd8",
@@ -39,16 +41,16 @@
    "size": 1553
   }
  },
- "ignore": "",
+ "ignore": "(\\.git)",
  "inner_path": "content.json",
- "modified": 1533816800,
+ "modified": 1535412678,
  "postmessage_nonce_security": true,
  "signers_sign": "HLw7ul4UIs0VwsfgVCtzh+G6AZZ4aAiJePrzfwgrrHQbU1F7bzF9EpzJ7chERrkelWUT3CE9pnH0m7UGRYKTVDQ=",
  "signs": {
-  "1D14naQY4s65YR6xrJDBHk9ufj2eLbK49C": "HE2JwYPwTq8h1DKBkgHHBwPCC9M+Bfy2t2ZyDoEXn78CLcMyLYRYYmi3OtnXTa+jwhd/lvDmjkLRKO4idmG6+dw="
+  "1D14naQY4s65YR6xrJDBHk9ufj2eLbK49C": "G4RlpDqPv/aAVZ+0QcxL2kfeQBeOQKVhcOBxzXRIm/Qofwp6x1rKL7Q5Jd2Tft9qtRxElNFX86X1Cz3+HjPnujA="
  },
  "signs_required": 1,
- "title": "Zitetags",
+ "title": "D14na",
  "translate": ["js/all.js"],
  "zeronet_version": "0.6.3"
 }
